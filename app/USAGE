@@ -1,5 +1,5 @@
 Description:
-    Yeoman generator for HTML Template.
+    Yeoman generator for HTML Template Foundation.
 
 Example:
-    yo html-template
+    yo html-template-foundation
