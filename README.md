@@ -1,15 +1,15 @@
-# generator-html-template
+# generator-html-template-foundation
 
-Yeoman generator for HTML Template.
+Yeoman generator for HTML Template Foundation.
 
 ## Install
 
 ```
-npm install --g generator-html-template
+npm install --g generator-html-template-foundation
 ```
 
 ## Usage
 
 ```
-yo html-template
+yo html-template-foundation
 ```
